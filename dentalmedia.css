@@ -1,0 +1,127 @@
+@media(max-width:500px){
+    .topdiv{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 200%;
+       
+    }.topdiv2{
+        width: 200%;
+    }
+    .topdiv3{
+        width: 200%;
+        
+
+    }
+    .imgwithpatient{
+        width: 350px;
+    }
+    
+    
+    .topdiv4{
+        width: 200%;
+        height: 150vh;
+        display: flex;
+        /* justify-content: center;
+        align-items: center; */
+        flex-direction: column;
+
+    }
+    .topdiv5{
+        width: 200%;
+
+    }
+    .topdiv6{
+        width: 200%;
+        height: 150vh;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        padding: 1rem;
+    }
+    .topdiv7{
+        width: 200%;
+        height: 150vh;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        padding: 1rem;
+
+    }
+    .topdiv8{
+        width: 200%;
+        height: 60vh;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+    }
+    .za{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+
+    }
+    .zb{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+
+    }
+    .zc{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+
+    }
+    .topdiv9{
+        width: 200%;
+        height: 20vh;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+    }
+    .topdivmain{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        width: 200%;
+        height: 90vh;
+
+    }
+    .lastmaindiv{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        width: 200%;
+        height: 70vh;
+    }
+    .healthimplant{
+        width: 50%;
+        
+    
+    }
+    .subdiv1{
+        width: 50%;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+}
